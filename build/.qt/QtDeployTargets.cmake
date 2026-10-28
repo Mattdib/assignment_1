@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_cluster_extraction_FILE /home/ilpiova/Autonomous/assignment/assignment_1/assignment_1/build/cluster_extraction)
+set(__QT_DEPLOY_TARGET_cluster_extraction_TYPE EXECUTABLE)
